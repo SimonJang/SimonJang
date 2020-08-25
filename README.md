@@ -1,16 +1,17 @@
-### Hi there 👋
+### Simon Jang
 
-<!--
-**SimonJang/SimonJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+![Linkedin Badge](https://img.shields.io/badge/-Simon_Jang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-jang-be//)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+- **Learning**: Data Lake architecture, Svelte and Julia
+- **Want to learn**: Elm, Azure, GCP, MongoDB and Rust (and probably alot more)
+- **Languages**: Javascript, Python, Java
+- **Tools**: AWS, Serverless, Docker, Git, ElasticSearch
+- **Concepts**: (no)SQL, DataOps, Domain Driven Design, microservices
+
+### Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=SimonJang&show_icons=true)
