@@ -6,10 +6,11 @@ Hi there 👋
 
 ### About
 
-- **Learning**: Data Lake architecture, Svelte and Julia
+- **Learning**: Data Lake architecture, AWS Certifications and Julia
 - **Want to learn**: Elm, Azure, GCP, MongoDB and Rust (and probably alot more)
 - **Languages**: Javascript, Python, Java
 - **Tools**: AWS, Serverless, Docker, Git, ElasticSearch
+- **Frameworks**: Angular, Svelte
 - **Concepts**: (no)SQL, DataOps, Domain Driven Design, microservices
 
 ### Stats
