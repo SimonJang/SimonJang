@@ -7,7 +7,7 @@ Hi there 👋
 ### About
 
 - **Learning**: Data Lake architecture, AWS Certifications and Julia
-- **Want to learn**: Elm, Azure, GCP, MongoDB and Rust (and probably alot more)
+- **Want to learn**: Elm, Deno, Azure, GCP, MongoDB and Rust (and probably alot more)
 - **Languages**: Javascript, Python, Java
 - **Tools**: AWS, Serverless, Docker, Git, ElasticSearch
 - **Frameworks**: Angular, Svelte
