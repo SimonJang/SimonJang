@@ -7,7 +7,7 @@ Hi there 👋
 ### About
 
 - **Learning**: AWS Certifications and React
-- **Want to learn**: Vue, Elm, Deno, Azure, GCP, MongoDB and Rust (and probably alot more)
+- **Want to learn**: Vue, Elm, Deno, Azure, GCP and Rust (and probably alot more)
 - **Languages**: Javascript, Python, Java
 - **Tools**: AWS, Serverless, Docker, Git, ElasticSearch
 - **Frameworks**: Angular, Svelte
